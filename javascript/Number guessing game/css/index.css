@@ -1,0 +1,84 @@
+body
+{ margin:auto;
+background-image: url("image/j4o.gif");
+ 
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+
+
+
+.wrapper
+ {background-image: url("image/q1.jpg");
+ 
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+//background-color:#87d2ec;
+	height:590px;
+  border:10px  solid white;
+    border-radius:40px;
+   margin-left:330px;
+	  //margin-right:515px;
+    margin-top:2px;
+	font-size:25px;
+	color:#251f1f;
+	text-align:center;
+    font-family: sans-serif;
+   width: 50%;
+} 
+#text2
+{
+	background-color:yellow;
+	width:180px;
+	height:30px;
+  border:5px  solid white;
+  border-radius:30px;
+  margin-left:25px;
+ // padding-top:4px;
+  margin-top:-70px;
+}
+
+#text1
+{
+	background-color:yellow;
+	width:142px;
+	height:30px;
+  border:5px  solid white;
+  border-radius:30px;
+  margin-left:500px;
+  margin-top:35px;
+  //padding-top:4px;
+}
+#demo
+{
+	background-color:yellow;
+	width:177px;
+	height:30px;
+  border:5px  solid white;
+  border-radius:30px;
+  margin-left:260px;
+ // padding-top:4px;
+  margin-top:-70px;
+}
+
+
+
+
+
+
+button
+{
+		width:78px;
+	height:31px;
+	font-size:22px;
+	// border-radius:30px;
+	 border-radius:10px;
+}
+input
+{
+	width:80px;
+	height:25px;
+	font-size:25px;
+	
+}
+

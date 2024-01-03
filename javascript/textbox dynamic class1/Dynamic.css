@@ -1,0 +1,44 @@
+ body
+ {
+	 background-color:#9fa2c4;
+ }
+ 
+ .demo1 {
+	  background-color:#a9c3fb;
+  border: 20px solid transparent;
+  padding: 15px;
+  border-image: url(images/0.png) 20 round;
+  width:830px;
+  height:100%;
+  margin-top:100px;
+  margin-left:260px;
+  font-size:30px;
+ // background-attachment: scroll;
+}
+h1
+{
+	color:rgb(20 76 72);
+}
+.demo
+{
+	margin-left:50px;
+}
+
+button
+{
+	background-color:#97e3df;
+	width:103px;
+	height:30px;
+	border-radius:5px;
+	font-size:18px;
+	margin:20px;
+	
+}
+input
+{
+	background-color:#ffffff;
+	width:293px;
+font-size:18px;
+	height:30px;
+	
+}

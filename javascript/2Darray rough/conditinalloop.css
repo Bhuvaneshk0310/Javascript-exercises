@@ -1,0 +1,13 @@
+ img {
+  border: 4px solid #555;
+ margin-left:2px;
+width:145px;
+}
+#borderimg { 
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(images/0.png) 25 round;
+  width:235px;
+  margin-left:560px;
+  font-size:30px;
+}
